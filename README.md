@@ -12,4 +12,4 @@ As described above, add a NextDouble extension method that gives a maximum value
 Add a NextString extension method for Random that allows you to pass in any number of string values (using params) and randomly pick one of them.
 Add a CoinFlip method that randomly picks a bool value. It should have an option parameter that indicates the frequency of heads coming up,
 wich should default to 0.5 or 50% of the time
-Annswer this question: In your opinion, would it be better to make a derived AdvnacedRandom class that adds these methods or use extension methods and why?
+Answer this question: In your opinion, would it be better to make a derived AdvnacedRandom class that adds these methods or use extension methods and why?
